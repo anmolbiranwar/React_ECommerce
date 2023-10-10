@@ -7,10 +7,9 @@ const Home = () => {
         <div className="card bg-dark text-white border-0 mx-3">
           <img
             className="card-img img-fluid"
-            src="./assets/main3.jpg"
+            src="./assets/main2.jpg"
             alt="Card"
             style={{height:'550px'}}
-            // height={250}
           />
           <div className="card-img-overlay d-flex align-items-center">
             <div className="container">
