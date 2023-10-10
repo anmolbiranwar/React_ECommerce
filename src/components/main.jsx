@@ -11,7 +11,7 @@ const Home = () => {
             alt="Card"
             style={{height:'550px'}}
           />
-          <div className="card-img-overlay d-flex align-items-center">
+          <div className="card-img-overlay d-flex align-items-end">
             <div className="container">
               <h3 className="card-title fs-1 text fw-lighter">New Season Arrivals</h3>
               <p className="card-text fs-5 d-none d-sm-block ">
